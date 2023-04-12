@@ -6,7 +6,7 @@
 
   # Technology stack
 
-  ## language
+  ## Language
 
 ![Java](https://img.shields.io/badge/Java-00ca00?style=flat-square&logo=Java&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-e69138?style=flat-square&logo=Go&logoColor=white)
@@ -16,7 +16,7 @@
 ![Lua](https://img.shields.io/badge/Lua-050080?style=flat-square&logo=lua&logoColor=white)
 
 
-  ## tools and middlewares
+  ## Tools and Middlewares
 
 ![Spring](https://img.shields.io/badge/Spring-32CD32?style=flat-square&logo=Spring&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-01758F?style=flat-square&logo=Mysql&logoColor=white)
@@ -36,7 +36,7 @@
 ![Vue](https://img.shields.io/badge/Vue-32CD32?style=flat-square&logo=Vue&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FA7343?style=flat-square&logo=shell&logoColor=white)
 
-  ## other
+  ## Others
 
 ![Github](https://img.shields.io/badge/Github-17161B?style=flat-square&logo=Github&logoColor=white)
 
