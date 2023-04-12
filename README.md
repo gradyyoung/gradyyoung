@@ -1,6 +1,6 @@
   # Hi,guys!
 
-  I'm Gradyyoung, and my Chinese name is Yang Gang.
+  I'm GradyYoung, and my Chinese name is Yang Gang.
 
   # Technology stack
 
