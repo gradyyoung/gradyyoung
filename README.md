@@ -38,4 +38,7 @@
 
 ![Github](https://img.shields.io/badge/Github-17161B?style=flat-square&logo=Github&logoColor=white)
 
+
+![GradyYoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gradyyoung&show_icons=true&theme=tokyonight)
+
   
