@@ -2,7 +2,7 @@
 
   I'm GradyYoung, and my Chinese name is Yang Gang.
   
-  My personal website: [Grady Young](https://www.ygang.top/)
+  My personal website: [Grady Young](https://www.ygang.top/).
 
   # Technology stack
 
