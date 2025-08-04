@@ -2,7 +2,7 @@
 
   I'm GradyYoung.
   
-  My blog site: [Grady Young](https://www.ygang.top/).
+  My blog site: [GradyYoung](https://www.ygang.top/).
 
   # Technology stack
 
