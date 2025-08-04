@@ -1,4 +1,4 @@
-  # Hi, guys!
+  # Hi, everyone!
 
   I'm GradyYoung.
   
