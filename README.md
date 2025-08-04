@@ -1,8 +1,8 @@
-  # Hi,guys!
+  # Hi, guys!
 
-  I'm GradyYoung, and my Chinese name is Yang Gang.
+  I'm GradyYoung.
   
-  My personal website: [Grady Young](https://www.ygang.top/).
+  My blog site: [Grady Young](https://www.ygang.top/).
 
   # Technology stack
 
